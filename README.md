@@ -1,2 +1,2 @@
 # 2d-platformer
-Sample Practice Project for learning how to use Github and Unity in a collaborative environment.
+2D Soulslike Platformer in the making. Developed using Unity and C#.
